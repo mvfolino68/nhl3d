@@ -12,7 +12,7 @@ import dash_html_components as html
 import pandas as pd
 import plotly.graph_objs as go
 import plotly 
-plotly.tools.set_credentials_file(username='mvfolino68', api_key='YaCrjGbAiQRtWpUtNo7f')
+plotly.tools.set_credentials_file(username='mvfolino68', api_key='')
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
